@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "毒の王子さま / 猫又おかゆ(official)",
+  "base_artist": "猫又おかゆ",
+  "createdAt": "2025-12-15T02:06:06.779605Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "毒の王子さま",
+      "artist": "猫又おかゆ",
+      "has_synced": true,
+      "path": "select/01_毒の王子さま_猫又おかゆ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "毒の王子さま (ぽいずにゃ～しんどろーむ Ver.)",
+      "artist": "猫又おかゆ",
+      "has_synced": true,
+      "path": "select/02_毒の王子さま_(ぽいずにゃ~しんどろーむ_Ver.)_猫又おかゆ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "毒の王子さま (ぽいずにゃ〜しんどろーむ ver.)",
+      "artist": "猫又おかゆ",
+      "has_synced": true,
+      "path": "select/03_毒の王子さま_(ぽいずにゃ〜しんどろーむ_ver.)_猫又おかゆ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "毒の王子さま",
+      "artist": "猫又おかゆ",
+      "has_synced": false,
+      "path": "select/pl_01_毒の王子さま_猫又おかゆ.txt"
+    }
+  ]
+}
